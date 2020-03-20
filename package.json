@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp-slides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annie-Huang/bootcamp-slides.git"
+  },
+  "author": "Annie Huang",
+  "license": "MTI",
+  "bugs": {
+    "url": "https://github.com/Annie-Huang/bootcamp-slides/issues"
+  },
+  "homepage": "https://github.com/Annie-Huang/bootcamp-slides#readme"
+}
