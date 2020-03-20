@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=uE1m21Umn0s (Create a Presentation Slide Website)
-https://github.com/webslides/webslides/
+https://github.com/webslides/webslides/     << webslides.tv/webslides-latest.zip
 https://codepen.io/bradtraversy/pen/ExjEEwr
 
 https://github.com/Annie-Huang/bootcamp-slides
